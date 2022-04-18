@@ -1,2 +1,2 @@
-# configserver
+# ms configserver
 MS ConfigServer
